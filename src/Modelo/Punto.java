@@ -7,11 +7,11 @@ package Modelo;
 
 /**
  *
- * @author j_h4e
+ * @author SUNTAXI
  */
 public class Punto {
-    
+
     public int x;
     public int y;
-    
+
 }

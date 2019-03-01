@@ -7,16 +7,16 @@ package Modelo;
 
 /**
  *
- * @author j_h4e
+ * @author SUNTAXI
  */
 public class Arista {
-    
+
     public Punto ptoIni;
     public Punto ptoFin;// punto inicial de la arista public Punto ptoFin; 
-    
-public Arista(Punto ptoIni, Punto ptoFin) { 
-    this.ptoIni = ptoIni; 
-    this.ptoFin = ptoFin;
+
+    public Arista(Punto ptoIni, Punto ptoFin) {
+        this.ptoIni = ptoIni;
+        this.ptoFin = ptoFin;
 
     }
 }
